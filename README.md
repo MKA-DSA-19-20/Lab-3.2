@@ -1,5 +1,5 @@
 # Lab-3.2
-Create a Complete Binary Tree class using the following ADT. 
+Create a Complete Binary Tree class using the following ADT. This should be made using a vector.
 
 Public Methods:
   - insert: takes an element and inserts it into the tree
